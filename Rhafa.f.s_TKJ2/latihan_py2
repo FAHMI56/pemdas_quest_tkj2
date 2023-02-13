@@ -1,0 +1,11 @@
+def segitiga(alas,tinggi):
+    luas = alas*tinggi/2
+    print("luas segitiga panjang adalah:%i"%luas)
+segitiga(20,30)
+
+
+
+def persegi_panjang(panjang,lebar):
+    luas = panjang*lebar
+    print("luas persegi panjang adalah:%i"%luas)
+persegi_panjang(20,30)
